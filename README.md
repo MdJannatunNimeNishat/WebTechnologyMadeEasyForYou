@@ -1,3 +1,2 @@
-It is a blog website here one can create his/her profile and write blog post. 
-Also he/she can edit, delete post and can see the comments that his/her post getting from people.
-There is also a admin. Admin can control the whole website. Admin can delete post, delete user, add category.
+It is a blog website where one can create his/her profile and write blog posts. Also he/she can edit, delete posts and can see the comments that his/her post is getting from people.
+There is also an admin. Admin can control the whole website. Admin can delete posts, delete users, add categories
